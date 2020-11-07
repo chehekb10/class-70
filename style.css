@@ -75,3 +75,34 @@ input {
 
     margin-top: 10px;
 }
+
+.book_1 {
+    cursor: pointer;
+
+}
+
+.book_1 hr {
+
+    margin-bottom: 10px;
+}
+
+.p_modal {
+
+    margin-top: 10px;
+}
+
+.modal-body {
+    
+    text-align: center;
+}
+
+.modal-content {
+    
+    margin-top: 100px;
+}
+
+.img_modal {
+
+    display: inline-block;
+    align-content: center;
+}
